@@ -1,0 +1,79 @@
+/* Default (Mobile) */
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Make the layout fit the full viewport height */
+  overflow: auto; /* Allow scrolling */
+}
+
+.image-container {
+  order: 1;
+  width: 100%; /* Full width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 60%; /* Make the image container take up 60% of the viewport height */
+  box-sizing: border-box; /* Ensure padding doesn't affect width */
+}
+
+.image-container img {
+  max-height: 100%; /* Ensure the image fits within the container */
+  max-width: 100%; /* Prevent the image from overflowing horizontally */
+  object-fit: contain; /* Ensure the entire image is visible without cropping */
+}
+
+.text-container {
+  order: 2;
+  width: 100%; /* Full width */
+  text-align: center; /* Center text */
+  flex: 0 0 auto; /* Prevent the text container from growing */
+  padding: 1rem; /* Add some padding for spacing */
+}
+
+/* For iPads (Medium Screens) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .layout-container {
+    flex-direction: column;
+    height: auto; /* Allow the layout to grow beyond the viewport height */
+    overflow: auto; /* Allow scrolling */
+  }
+
+  .image-container {
+    order: 1;
+    width: 100%; /* Full width */
+    flex: 0 0 50%; /* Make the image container take up 50% of the viewport height */
+    padding: 0; /* Remove padding for iPad views */
+  }
+
+  .text-container {
+    order: 2;
+    width: 100%; /* Full width */
+    text-align: center; /* Center text */
+    flex: 0 0 auto; /* Prevent the text container from growing */
+    padding: 1rem; /* Add some padding for spacing */
+  }
+}
+
+/* For Desktops (Large Screens) */
+@media (min-width: 1025px) {
+  .layout-container {
+    flex-direction: row;
+    height: 100vh; /* Fit the full viewport height */
+    overflow: hidden; /* Prevent scrolling */
+  }
+
+  .image-container {
+    order: 1;
+    width: 50%; /* Half width */
+    flex: 1; /* Allow the image container to take up available space */
+    padding: 0; /* Remove padding for desktop views */
+  }
+
+  .text-container {
+    order: 2;
+    width: 50%; /* Half width */
+    text-align: left; /* Align text to the left */
+    flex: 1; /* Allow the text container to take up available space */
+    padding: 2rem; /* Add padding for spacing */
+  }
+}
