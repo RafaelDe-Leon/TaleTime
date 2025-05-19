@@ -1,0 +1,78 @@
+{
+  "stories": [
+    {
+      "id": "stella-spaceship",
+      "title": "Stella's Spaceship Adventure",
+      "coverImage": "public/stella-spaceship/assets/space-ship-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "public/stella-spaceship/assets/1.jpg",
+          "text": "Stella looked up at the night sky, dreaming of adventures among the stars."
+        },
+        {
+          "number": 2,
+          "image": "public/stella-spaceship/assets/2.png",
+          "text": "She built a shiny spaceship from scraps she found in her backyard."
+        },
+        {
+          "number": 3,
+          "image": "public/stella-spaceship/assets/3.png",
+          "text": "With a whoosh, Stella blasted off, waving goodbye to her cat, Luna."
+        },
+        {
+          "number": 4,
+          "image": "public/stella-spaceship/assets/4.png",
+          "text": "She zoomed past planets and dodged sparkling comets."
+        },
+        {
+          "number": 5,
+          "image": "public/stella-spaceship/assets/5.png",
+          "text": "On a distant moon, Stella made a new friend: a giggling alien named Zorp."
+        },
+        {
+          "number": 6,
+          "image": "public/stella-spaceship/assets/6.png",
+          "text": "Together, they explored, laughed, and promised to meet again among the stars."
+        }
+      ]
+    },
+    {
+      "id": "leo-lion-strength",
+      "title": "Leo the Lion Learns About Strength",
+      "coverImage": "public/leo-lion/assets/lion-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "public/leo-lion/assets/1.png",
+          "text": "Leo was a little lion who wanted to be strong like his dad."
+        },
+        {
+          "number": 2,
+          "image": "public/leo-lion/assets/2.png",
+          "text": "He tried to roar loudly, but his roar was soft and squeaky."
+        },
+        {
+          "number": 3,
+          "image": "public/leo-lion/assets/3.png",
+          "text": "Leo watched his friends lift big rocks, but he could only move pebbles."
+        },
+        {
+          "number": 4,
+          "image": "public/leo-lion/assets/4.png",
+          "text": "One day, Leo saw a tiny bird stuck in a bush. He gently helped her out."
+        },
+        {
+          "number": 5,
+          "image": "public/leo-lion/assets/5.png",
+          "text": "The bird chirped, 'Thank you, Leo! You are strong and kind.'"
+        },
+        {
+          "number": 6,
+          "image": "public/leo-lion/assets/6.png",
+          "text": "Leo smiled. He learned that being strong means helping others, too!"
+        }
+      ]
+    }
+  ]
+}
