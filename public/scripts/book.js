@@ -3,7 +3,7 @@ let totalPages = 1
 let storyData = null
 
 async function loadStoryById(storyId) {
-  const res = await fetch('/db.json')
+  const res = await fetch('./db.json')
   const data = await res.json()
   storyData = data.stories.find(s => s.id === storyId)
   if (!storyData) {
