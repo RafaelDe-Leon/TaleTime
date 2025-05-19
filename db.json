@@ -3,36 +3,36 @@
     {
       "id": "stella-spaceship",
       "title": "Stella's Spaceship Adventure",
-      "coverImage": "public/stella-spaceship/assets/space-ship-cover.png",
+      "coverImage": "stella-spaceship/assets/space-ship-cover.png",
       "pages": [
         {
           "number": 1,
-          "image": "public/stella-spaceship/assets/1.jpg",
+          "image": "stella-spaceship/assets/1.jpg",
           "text": "Stella looked up at the night sky, dreaming of adventures among the stars."
         },
         {
           "number": 2,
-          "image": "public/stella-spaceship/assets/2.png",
+          "image": "stella-spaceship/assets/2.png",
           "text": "She built a shiny spaceship from scraps she found in her backyard."
         },
         {
           "number": 3,
-          "image": "public/stella-spaceship/assets/3.png",
+          "image": "stella-spaceship/assets/3.png",
           "text": "With a whoosh, Stella blasted off, waving goodbye to her cat, Luna."
         },
         {
           "number": 4,
-          "image": "public/stella-spaceship/assets/4.png",
+          "image": "stella-spaceship/assets/4.png",
           "text": "She zoomed past planets and dodged sparkling comets."
         },
         {
           "number": 5,
-          "image": "public/stella-spaceship/assets/5.png",
+          "image": "stella-spaceship/assets/5.png",
           "text": "On a distant moon, Stella made a new friend: a giggling alien named Zorp."
         },
         {
           "number": 6,
-          "image": "public/stella-spaceship/assets/6.png",
+          "image": "stella-spaceship/assets/6.png",
           "text": "Together, they explored, laughed, and promised to meet again among the stars."
         }
       ]
@@ -40,37 +40,222 @@
     {
       "id": "leo-lion-strength",
       "title": "Leo the Lion Learns About Strength",
-      "coverImage": "public/leo-lion/assets/lion-cover.png",
+      "coverImage": "leo-lion/assets/lion-cover.png",
       "pages": [
         {
           "number": 1,
-          "image": "public/leo-lion/assets/1.png",
+          "image": "leo-lion/assets/1.png",
           "text": "Leo was a little lion who wanted to be strong like his dad."
         },
         {
           "number": 2,
-          "image": "public/leo-lion/assets/2.png",
+          "image": "leo-lion/assets/2.png",
           "text": "He tried to roar loudly, but his roar was soft and squeaky."
         },
         {
           "number": 3,
-          "image": "public/leo-lion/assets/3.png",
+          "image": "leo-lion/assets/3.png",
           "text": "Leo watched his friends lift big rocks, but he could only move pebbles."
         },
         {
           "number": 4,
-          "image": "public/leo-lion/assets/4.png",
+          "image": "leo-lion/assets/4.png",
           "text": "One day, Leo saw a tiny bird stuck in a bush. He gently helped her out."
         },
         {
           "number": 5,
-          "image": "public/leo-lion/assets/5.png",
+          "image": "leo-lion/assets/5.png",
           "text": "The bird chirped, 'Thank you, Leo! You are strong and kind.'"
         },
         {
           "number": 6,
-          "image": "public/leo-lion/assets/6.png",
+          "image": "leo-lion/assets/6.png",
           "text": "Leo smiled. He learned that being strong means helping others, too!"
+        }
+      ]
+    },
+    {
+      "id": "mia-mouse-courage",
+      "title": "Mia the Mouse Finds Her Courage",
+      "coverImage": "mia-mouse/assets/mouse-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "mia-mouse/assets/1.png",
+          "text": "Mia was a tiny mouse who was afraid of everything."
+        },
+        {
+          "number": 2,
+          "image": "mia-mouse/assets/2.png",
+          "text": "One day, her friend got stuck in a jar."
+        },
+        {
+          "number": 3,
+          "image": "mia-mouse/assets/3.png",
+          "text": "Mia wanted to help, but she was scared."
+        },
+        {
+          "number": 4,
+          "image": "mia-mouse/assets/4.png",
+          "text": "She took a deep breath and ran to help."
+        },
+        {
+          "number": 5,
+          "image": "mia-mouse/assets/5.png",
+          "text": "With courage, Mia freed her friend!"
+        },
+        {
+          "number": 6,
+          "image": "mia-mouse/assets/6.png",
+          "text": "Mia learned she could be brave when it mattered most."
+        }
+      ]
+    },
+    {
+      "id": "benji-bear-sharing",
+      "title": "Benji the Bear Learns to Share",
+      "coverImage": "benji-bear/assets/bear-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "benji-bear/assets/1.png",
+          "text": "Benji loved his toys and never wanted to share."
+        },
+        {
+          "number": 2,
+          "image": "benji-bear/assets/2.png",
+          "text": "His friends felt sad and left to play elsewhere."
+        },
+        {
+          "number": 3,
+          "image": "benji-bear/assets/3.png",
+          "text": "Benji felt lonely and missed his friends."
+        },
+        {
+          "number": 4,
+          "image": "benji-bear/assets/4.png",
+          "text": "He decided to invite them back and share his toys."
+        },
+        {
+          "number": 5,
+          "image": "benji-bear/assets/5.png",
+          "text": "Everyone had fun together!"
+        },
+        {
+          "number": 6,
+          "image": "benji-bear/assets/6.png",
+          "text": "Benji learned that sharing brings happiness to all."
+        }
+      ]
+    },
+    {
+      "id": "penny-penguin-perseverance",
+      "title": "Penny the Penguin Perseveres",
+      "coverImage": "penny-penguin/assets/penguin-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "penny-penguin/assets/1.png",
+          "text": "Penny wanted to learn to slide on the ice."
+        },
+        {
+          "number": 2,
+          "image": "penny-penguin/assets/2.png",
+          "text": "She kept falling and getting back up."
+        },
+        {
+          "number": 3,
+          "image": "penny-penguin/assets/3.png",
+          "text": "Her friends cheered her on."
+        },
+        {
+          "number": 4,
+          "image": "penny-penguin/assets/4.png",
+          "text": "Penny practiced every day."
+        },
+        {
+          "number": 5,
+          "image": "penny-penguin/assets/5.png",
+          "text": "One day, she slid all the way across the pond!"
+        },
+        {
+          "number": 6,
+          "image": "penny-penguin/assets/6.png",
+          "text": "Penny learned that perseverance leads to success."
+        }
+      ]
+    },
+    {
+      "id": "ollie-owl-wisdom",
+      "title": "Ollie the Owl Shares His Wisdom",
+      "coverImage": "ollie-owl/assets/owl-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "ollie-owl/assets/1.png",
+          "text": "Ollie loved reading and learning new things."
+        },
+        {
+          "number": 2,
+          "image": "ollie-owl/assets/2.png",
+          "text": "His friends came to him with questions."
+        },
+        {
+          "number": 3,
+          "image": "ollie-owl/assets/3.png",
+          "text": "Ollie listened carefully and shared what he knew."
+        },
+        {
+          "number": 4,
+          "image": "ollie-owl/assets/4.png",
+          "text": "He taught his friends how to find answers in books."
+        },
+        {
+          "number": 5,
+          "image": "ollie-owl/assets/5.png",
+          "text": "Everyone learned something new together."
+        },
+        {
+          "number": 6,
+          "image": "ollie-owl/assets/6.png",
+          "text": "Ollie learned that wisdom grows when you share it."
+        }
+      ]
+    },
+    {
+      "id": "gracie-giraffe-kindness",
+      "title": "Gracie the Giraffe is Kind",
+      "coverImage": "gracie-giraffe/assets/giraffe-cover.png",
+      "pages": [
+        {
+          "number": 1,
+          "image": "gracie-giraffe/assets/1.png",
+          "text": "Gracie always looked for ways to help others."
+        },
+        {
+          "number": 2,
+          "image": "gracie-giraffe/assets/2.png",
+          "text": "She saw a friend who needed a smile."
+        },
+        {
+          "number": 3,
+          "image": "gracie-giraffe/assets/3.png",
+          "text": "Gracie shared her snack and played together."
+        },
+        {
+          "number": 4,
+          "image": "gracie-giraffe/assets/4.png",
+          "text": "She helped clean up after playtime."
+        },
+        {
+          "number": 5,
+          "image": "gracie-giraffe/assets/5.png",
+          "text": "Her friends felt happy and grateful."
+        },
+        {
+          "number": 6,
+          "image": "gracie-giraffe/assets/6.png",
+          "text": "Gracie learned that kindness makes the world brighter."
         }
       ]
     }
